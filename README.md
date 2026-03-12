@@ -1,8 +1,7 @@
 # Causal Inference Trading Platform
 ## Moving from Correlation to Causation
 
-> A beginner-friendly data science project that explores **why** stock prices move,
-> not just **when** they move together.
+
 
 ---
 
